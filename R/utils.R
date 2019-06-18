@@ -1,0 +1,15 @@
+globalVariables(c("gap_between",
+                  "lead_max",
+                  "max_until_now",
+                  "Expanded",
+                  "rn",
+                  ".",
+                  "rl",
+                  "st_seq",
+                  "seqsEnd",
+                  "seqs",
+                  "nrow",
+                  "gapFlag",
+                  "st_tmp",
+                  "shift_tmp")
+                )
