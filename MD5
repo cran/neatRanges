@@ -1,4 +1,4 @@
-11c6a08386ca9c3e8fe3107ff068b468 *DESCRIPTION
+d25d7f48f3ecc9948339b2166ae1527b *DESCRIPTION
 3f4a6882c577d6c075e376420e307a0e *LICENSE
 499ff0d6e475838cdbed1a50c02b1611 *NAMESPACE
 2e7374252cb060014b832c6dd30e47d9 *NEWS.md
@@ -19,8 +19,8 @@ f9d810debb3410ca518fdc760c95634b *man/partition_ranges.Rd
 7ef5ac741a7d001fc7829c0e301e3aba *src/subsetAndUpdate.cpp
 7fdfb180994dbdd71a078335ccd9d7b3 *src/subsetAndUpdateTime.cpp
 bcfb7b97de0ab2e5d550b8e9615690a3 *tests/testthat.R
-81238d32d6667b21f9a65ae28ffeb7a4 *tests/testthat/testneatRanges_collapse.R
-e86378af50e184840d3c90c7294feaed *tests/testthat/testneatRanges_combine.R
-d218456823a4a7f8d49d1bdf9934d7e4 *tests/testthat/testneatRanges_expand.R
-eb70df4cb0a6c1f09c32f27272314b1f *tests/testthat/testneatRanges_fill.R
-1aa356a8e80ab363a51c3ce37e6cefe4 *tests/testthat/testneatRanges_partition.R
+e6edb71a919ae005ee25900c64f3ad4e *tests/testthat/testneatRanges_collapse.R
+03a52eaac2f2f6c85605ff0e11312b01 *tests/testthat/testneatRanges_combine.R
+08cd4adbeae76bd1c20f828ec9464c27 *tests/testthat/testneatRanges_expand.R
+1959dcd74ba44104f239a21dabf89bc8 *tests/testthat/testneatRanges_fill.R
+90e32420a60695809a1f8be2fa638e67 *tests/testthat/testneatRanges_partition.R
